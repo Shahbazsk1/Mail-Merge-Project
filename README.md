@@ -8,16 +8,16 @@
   <li>✅ It saves the new personalized letters to ./Output/ReadyToSend/letter_for_<name>.docx.</li>
 </ul>
 <h3>🗂️ Folder Structure</h3>
-<p>Project/
-├── Input/
-│   ├── Letter/
-│   │   └── starting_letter.txt
-│   └── Names/
-│       └── invited_name.txt
-├── Output/
-│   └── ReadyToSend/
-│       └── letter_for_<name>.docx
-├── main.py</p>
+<p>Project/<br>
+├── Input/<br>
+│   ├── Letter/<br>
+│   │   └── starting_letter.txt<br>
+│   └── Names/<br>
+│       └── invited_name.txt<br>
+├── Output/<br>
+│   └── ReadyToSend/<br>
+│       └── letter_for_<name>.docx<br>
+├── main.py</p><br>
 <h3>🔤 Example</h3>
 <p>🔹 starting_letter.txt</p>
 <p>Dear [name],<br>
