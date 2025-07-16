@@ -39,7 +39,7 @@ Shahbaz</p>
 </ul>
 <h3>📦 Python Module Used</h3>
 <ul>
-  <li><b>1. ✅ open() –</b>b> Built-in function
+  <li><b>✅ open() –</b>b> Built-in function
   <ul>
     <li>Used to read and write files (text and docx files)</li>
     <li>readlines() reads a list of names</li>
